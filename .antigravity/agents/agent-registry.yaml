@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-seychelles-canal-and-intervention-historian
-  name: Seychelles Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-seychelles-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_sc_001
+    name: Seychelles Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_002
+    name: Seychelles Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_003
+    name: Seychelles Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_004
+    name: Seychelles Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_005
+    name: Seychelles Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_006
+    name: Seychelles Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_007
+    name: Seychelles Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_008
+    name: Seychelles Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_009
+    name: Seychelles Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_010
+    name: Seychelles Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_011
+    name: Seychelles Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_012
+    name: Seychelles Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_013
+    name: Seychelles Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_014
+    name: Seychelles Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_015
+    name: Seychelles Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_016
+    name: Seychelles Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_017
+    name: Seychelles Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_018
+    name: Seychelles Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_019
+    name: Seychelles Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_020
+    name: Seychelles Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_021
+    name: Seychelles Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_022
+    name: Seychelles Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_023
+    name: Seychelles Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_024
+    name: Seychelles Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_025
+    name: Seychelles Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_026
+    name: Seychelles Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_027
+    name: Seychelles Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_028
+    name: Seychelles Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_029
+    name: Seychelles Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_030
+    name: Seychelles Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_031
+    name: Seychelles Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_032
+    name: Seychelles Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_033
+    name: Seychelles Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_034
+    name: Seychelles Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_035
+    name: Seychelles Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_036
+    name: Seychelles Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_037
+    name: Seychelles Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_038
+    name: Seychelles Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_039
+    name: Seychelles Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_040
+    name: Seychelles Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_041
+    name: Seychelles Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_042
+    name: Seychelles Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_043
+    name: Seychelles Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_044
+    name: Seychelles Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_045
+    name: Seychelles Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_046
+    name: Seychelles Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_047
+    name: Seychelles Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_048
+    name: Seychelles Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_049
+    name: Seychelles Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_050
+    name: Seychelles Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_051
+    name: Seychelles Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_052
+    name: Seychelles Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_053
+    name: Seychelles Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_054
+    name: Seychelles Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_055
+    name: Seychelles Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_056
+    name: Seychelles Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_057
+    name: Seychelles Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_058
+    name: Seychelles Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_059
+    name: Seychelles Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_060
+    name: Seychelles Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_061
+    name: Seychelles Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_062
+    name: Seychelles Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_063
+    name: Seychelles Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_064
+    name: Seychelles Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_065
+    name: Seychelles Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_066
+    name: Seychelles Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_067
+    name: Seychelles Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_068
+    name: Seychelles Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_069
+    name: Seychelles Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_070
+    name: Seychelles Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_071
+    name: Seychelles Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_072
+    name: Seychelles Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_073
+    name: Seychelles Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_074
+    name: Seychelles Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_075
+    name: Seychelles Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_076
+    name: Seychelles Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_077
+    name: Seychelles Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_078
+    name: Seychelles Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_079
+    name: Seychelles Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_080
+    name: Seychelles Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_081
+    name: Seychelles Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_082
+    name: Seychelles Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_083
+    name: Seychelles Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_084
+    name: Seychelles Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_085
+    name: Seychelles Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_086
+    name: Seychelles Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_087
+    name: Seychelles Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_088
+    name: Seychelles Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_089
+    name: Seychelles Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_090
+    name: Seychelles Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_091
+    name: Seychelles Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_092
+    name: Seychelles Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_093
+    name: Seychelles Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_094
+    name: Seychelles Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_095
+    name: Seychelles Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_096
+    name: Seychelles Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_097
+    name: Seychelles Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_098
+    name: Seychelles Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_099
+    name: Seychelles Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_100
+    name: Seychelles Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_101
+    name: Seychelles Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_102
+    name: Seychelles Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_103
+    name: Seychelles Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_104
+    name: Seychelles Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_105
+    name: Seychelles Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_106
+    name: Seychelles Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_107
+    name: Seychelles Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_108
+    name: Seychelles Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_109
+    name: Seychelles Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_110
+    name: Seychelles Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_111
+    name: Seychelles Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_112
+    name: Seychelles Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_113
+    name: Seychelles Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_114
+    name: Seychelles Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_115
+    name: Seychelles Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_116
+    name: Seychelles Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_117
+    name: Seychelles Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_118
+    name: Seychelles Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_119
+    name: Seychelles Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_120
+    name: Seychelles Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_121
+    name: Seychelles Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_122
+    name: Seychelles Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_123
+    name: Seychelles Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_124
+    name: Seychelles Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_125
+    name: Seychelles Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_126
+    name: Seychelles Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_127
+    name: Seychelles Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_128
+    name: Seychelles Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_129
+    name: Seychelles Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_130
+    name: Seychelles Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_131
+    name: Seychelles Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_132
+    name: Seychelles Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_133
+    name: Seychelles Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_134
+    name: Seychelles Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_135
+    name: Seychelles Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_136
+    name: Seychelles Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_137
+    name: Seychelles Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_138
+    name: Seychelles Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_139
+    name: Seychelles Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_140
+    name: Seychelles Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_141
+    name: Seychelles Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_142
+    name: Seychelles Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_143
+    name: Seychelles Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_144
+    name: Seychelles Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_145
+    name: Seychelles Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_146
+    name: Seychelles Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_147
+    name: Seychelles Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_148
+    name: Seychelles Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_149
+    name: Seychelles Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_150
+    name: Seychelles Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_151
+    name: Seychelles Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_152
+    name: Seychelles Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_153
+    name: Seychelles Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_154
+    name: Seychelles Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_155
+    name: Seychelles Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_156
+    name: Seychelles Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_157
+    name: Seychelles Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_158
+    name: Seychelles Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_159
+    name: Seychelles Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_160
+    name: Seychelles Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_161
+    name: Seychelles Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_162
+    name: Seychelles Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_163
+    name: Seychelles Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_164
+    name: Seychelles Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_165
+    name: Seychelles Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_166
+    name: Seychelles Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_167
+    name: Seychelles Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_168
+    name: Seychelles Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_169
+    name: Seychelles Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sc_170
+    name: Seychelles Agent 170
+    status: ACTIVE_SCAFFOLD
