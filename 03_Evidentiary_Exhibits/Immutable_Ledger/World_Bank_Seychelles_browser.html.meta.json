@@ -1,0 +1,18 @@
+{
+  "url": "https://data.worldbank.org/country/seychelles",
+  "final_url": "https://data.worldbank.org/country/seychelles",
+  "title": "World Bank Seychelles",
+  "fetched_at": "2026-11-23T07:24:01.702141Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 44515,
+  "sha256": "27cfb5fc2327581128e5d15e97a2aa1b6277fd610a5fd5e3b93a1f331fef4ab8",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review.",
+  "substantive": false,
+  "quality_flag": "NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE",
+  "annotation_note": "Browser capture landed on bot-challenge/AWS WAF/CF interstitial; not substantive evidence. Pending recapture."
+}

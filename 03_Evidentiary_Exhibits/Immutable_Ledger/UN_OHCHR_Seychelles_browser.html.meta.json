@@ -1,0 +1,16 @@
+{
+  "url": "https://www.ohchr.org/en/countries/seychelles",
+  "final_url": "https://www.ohchr.org/en/countries/seychelles",
+  "title": "UN OHCHR Seychelles",
+  "fetched_at": "2026-11-23T07:24:01.699631Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 80020,
+  "sha256": "c356f343da735bcfe1de18e767307ea43ffd18d55378cdfdc72cde6e3ed90270",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review.",
+  "substantive": true
+}
